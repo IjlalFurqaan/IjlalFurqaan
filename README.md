@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://ijlal-furqaan-portfolio.netlify.app/](https://ijlal-furqaan-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [)
 
 - 📫 How to reach me **ijlalfurqaan5@gmail.com**
 
