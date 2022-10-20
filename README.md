@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijlalfurqaan&label=Profile%20views&color=0e75b6&style=flat" alt="ijlalfurqaan" /> </p>
 
-- 🌱 I’m currently learning **Front-End**
+- 🌱 I’m currently learning **Front_End**
 
 - 👨‍💻 All of my projects are available at [https://ijlal-furqaan-portfolio.netlify.app/](https://ijlal-furqaan-portfolio.netlify.app/)
 
