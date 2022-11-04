@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ijlalfurqaan5@gmail.com**
 
-- ⚡ Fun fact **I am sarcastic:)**
+- ⚡ Fun fact **I am sarcastic:)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
