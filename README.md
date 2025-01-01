@@ -81,12 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ijlalfurqaan&show_icons=true&locale=en&theme=radical" alt="ijlalfurqaan" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijlalfurqaan&theme=radical" alt="ijlalfurqaan" />
-</div>
-
----
 
 
----
 
