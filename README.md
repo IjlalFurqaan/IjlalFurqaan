@@ -37,7 +37,7 @@
 ### 💼 Professional Experience:
 
 **Working Student Software Developer** @ Deutsche Börse  
-*Building pricing engine for market supervision team*
+*Building financial technology solutions in one of Europe's leading stock exchange organizations*
 
 **Software Developer** @ Mphasis (Sep 2021 - Jan 2024)  
 *Developed enterprise-grade applications serving thousands of users with focus on reliability and performance*
@@ -53,9 +53,7 @@
   <a href="https://github.com/IjlalFurqaan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ijlalfurqaan" height="30" width="40" />
   </a>
-  <a href="mailto:ijlalfurqaan5@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
-  </a>
+
 </p>
 
 ---
