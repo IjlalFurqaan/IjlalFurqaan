@@ -100,19 +100,6 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijlalfurqaan&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="ijlalfurqaan stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ijlalfurqaan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="ijlalfurqaan languages" />
-</div>
-
----
 
   
   ### 💭 Quote of the Day
