@@ -5,7 +5,7 @@
   Welcome to Ijlal Furqaan's Profile!
 </h1>
 
-<h3 align="center">A passionate full stack developer and Master's student in Computer Science 🚀</h3>
+<h3 align="center">Full Stack Developer | Master's Student in Computer Science | Building Scalable Solutions 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ijlalfurqaan&label=Profile%20views&color=0e75b6&style=flat" alt="ijlalfurqaan" />
@@ -21,13 +21,26 @@
 
 ### 🧐 About Me:
 
-- 🎓 Master's student in Computer Science at The Philipp Universität Marburg, Germany (2024-2026)
+- 🎓 Master's student in Computer Science at Philipps-Universität Marburg, Germany (2024-2026)
+- 💼 **Working Student Software Developer at Deutsche Börse** (Current)
 - 💼 Former Software Developer at Mphasis (09/2021 - 01/2024)
-- 🌟 Specializing in developing efficient, user-centric web applications
-- 🚀 Experienced with React, Redux, Node.js, Java, C++, Python, and RESTful APIs
-- 🔍 Passionate about problem-solving and delivering high-impact solutions
+- 🌟 Specializing in developing efficient, scalable, and user-centric web applications
+- 🚀 Experienced with modern tech stack: React, Redux, Node.js, Java, C++, Python, and RESTful APIs
+- 💡 Strong focus on clean code, performance optimization, and system architecture
+- 🔍 Passionate about solving complex problems and delivering high-impact solutions
+- 🌱 Currently exploring cloud technologies and microservices architecture
 - 📫 Reach me at: **ijlalfurqaan5@gmail.com**
 - 🌐 Portfolio: [https://ijlal-furqaan-portfolio.vercel.app/](https://ijlal-furqaan-portfolio.vercel.app/)
+
+---
+
+### 💼 Professional Experience:
+
+**Working Student Software Developer** @ Deutsche Börse  
+*Building pricing engine for market supervision team*
+
+**Software Developer** @ Mphasis (Sep 2021 - Jan 2024)  
+*Developed enterprise-grade applications serving thousands of users with focus on reliability and performance*
 
 ---
 
@@ -40,31 +53,51 @@
   <a href="https://github.com/IjlalFurqaan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ijlalfurqaan" height="30" width="40" />
   </a>
+  <a href="mailto:ijlalfurqaan5@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools:
 
+#### Languages:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</p>
+
+#### Frontend:
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</p>
+
+#### Backend:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</p>
+
+#### Databases:
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
+
+#### DevOps & Tools:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 </p>
@@ -74,13 +107,49 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ijlalfurqaan&show_icons=true&locale=en&layout=compact&theme=radical" alt="ijlalfurqaan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ijlalfurqaan&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="ijlalfurqaan stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijlalfurqaan&show_icons=true&locale=en&theme=radical" alt="ijlalfurqaan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijlalfurqaan&theme=radical&hide_border=true" alt="ijlalfurqaan streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ijlalfurqaan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="ijlalfurqaan languages" />
+</div>
 
+---
 
+### 🏆 GitHub Trophies:
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ijlalfurqaan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💭 Quote of the Day
+  
+  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  
+  ---
+  
+  ### 📈 Contribution Graph
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ijlalfurqaan&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
