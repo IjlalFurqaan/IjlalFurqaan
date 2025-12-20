@@ -109,10 +109,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijlalfurqaan&theme=radical&hide_border=true" alt="ijlalfurqaan streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ijlalfurqaan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="ijlalfurqaan languages" />
 </div>
 
@@ -123,16 +119,6 @@
   
   *"First, solve the problem. Then, write the code."* – John Johnson
   
-  ---
-  
-  ### 📈 Contribution Graph
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ijlalfurqaan&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-  
-</div>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
