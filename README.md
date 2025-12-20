@@ -118,25 +118,10 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ijlalfurqaan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
----
-
-<div align="center">
   
   ### 💭 Quote of the Day
   
-  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  *"First, solve the problem. Then, write the code."* – John Johnson
   
   ---
   
