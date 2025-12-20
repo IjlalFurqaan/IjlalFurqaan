@@ -22,7 +22,7 @@
 ### 🧐 About Me:
 
 - 🎓 Master's student in Computer Science at Philipps-Universität Marburg, Germany (2024-2026)
-- 💼 **Working Student Software Developer at Deutsche Börse** (Current)
+- 💼 **Working Student Software Developer at Deutsche Börse** (09/2025 - Current)
 - 💼 Former Software Developer at Mphasis (09/2021 - 01/2024)
 - 🌟 Specializing in developing efficient, scalable, and user-centric web applications
 - 🚀 Experienced with modern tech stack: React, Redux, Node.js, Java, C++, Python, and RESTful APIs
