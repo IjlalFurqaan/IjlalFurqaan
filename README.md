@@ -30,7 +30,7 @@
 - 🔍 Passionate about solving complex problems and delivering high-impact solutions
 - 🌱 Currently exploring cloud technologies and microservices architecture
 - 📫 Reach me at: **ijlalfurqaan5@gmail.com**
-- 🌐 Portfolio: [https://ijlal-furqaan-portfolio.vercel.app/](https://ijlal-furqaan-portfolio.vercel.app/)
+- 🌐 Portfolio: https://ijlalfurqaan.vercel.app/
 
 ---
 
