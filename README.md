@@ -87,8 +87,8 @@ Developed enterprise-grade applications serving thousands of users. Focused on r
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IjlalFurqaan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IjlalFurqaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=IjlalFurqaan&cc=0d1117&tc=a0c4ff&ic=58a6ff&bc=0d1117" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IjlalFurqaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
