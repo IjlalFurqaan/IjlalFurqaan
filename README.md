@@ -41,8 +41,6 @@ $ mailto:     ijlalfurqaan5@gmail.com
 $ linkedin:   /in/ijlal-furqaan-32b7251b6
 ```
 
-<img src="https://streak-stats.demolab.com?user=IjlalFurqaan&theme=dark&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
 ```
 ╔══════════════════════════╗
 ║  status: online  🟢      ║
