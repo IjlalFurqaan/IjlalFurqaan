@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![Gmail](https://img.shields.io/badge/-ijlalfurqaan5@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:ijlalfurqaan5@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-ijlal--furqaan-161b22?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://linkedin.com/in/ijlal-furqaan-32b7251b6)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-ijlal%20furqaan-161b22?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://linkedin.com/in/ijlal-furqaan-32b7251b6)&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/-portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://ijlalfurqaan.vercel.app)
 
 </div>
