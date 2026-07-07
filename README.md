@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![Gmail](https://img.shields.io/badge/-ijlalfurqaan5@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:ijlalfurqaan5@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-ijlal%20furqaan-161b22?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://linkedin.com/in/ijlal-furqaan-32b7251b6)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-ijlal%20furqaan-161b22?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzIyZDNlZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://linkedin.com/in/ijlal-furqaan-32b7251b6)&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/-portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://ijlalfurqaan.vercel.app)
 
 </div>
@@ -20,7 +20,7 @@
 
 <img align="right" width="370" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-Full-stack engineer who likes owning the whole loop  from the schema and the API contract to the virtualized grid the user actually scrolls. I build **real-time, data-heavy frontends**, **backend APIs at the GraphQL/WebSocket layer**, **AI/RAG pipelines that run on local and cloud LLMs**, and the **Terraform + CI/CD plumbing** that gets it all deployed without anyone touching a button.
+Full-stack engineer who likes owning the whole loop — from the schema and the API contract to the virtualized grid the user actually scrolls. I build **real-time, data-heavy frontends**, **backend APIs at the GraphQL/WebSocket layer**, **AI/RAG pipelines that run on local and cloud LLMs**, and the **Terraform + CI/CD plumbing** that gets it all deployed without anyone touching a button.
 
 Currently pursuing an **M.Sc. in Computer Science at Philipps-Universität Marburg** 🇩🇪, researching human-controllable LLM systems.
 
@@ -28,7 +28,7 @@ Currently pursuing an **M.Sc. in Computer Science at Philipps-Universität Marbu
 
 ## `$ cat ai-engineering.md`
 
-- Build **RAG pipelines end to end**  ingestion, chunking, embeddings, retrieval, and grounded generation — with **LangChain**, **Vertex AI**, **ChromaDB**, and **NLI-based claim verification** so answers can be trusted, not just generated.
+- Build **RAG pipelines end to end** — ingestion, chunking, embeddings, retrieval, and grounded generation — with **LangChain**, **Vertex AI**, **ChromaDB**, and **NLI-based claim verification** so answers can be trusted, not just generated.
 - Run **open-weight LLMs locally** with **Ollama** and steer their behavior below the prompt layer — activation steering, semantic control, human-in-the-loop correction.
 - Wire up **agentic workflows** with **MCP** and AI coding agents — ticket-to-code pipelines where the agent writes, deploys, and verifies its own changes.
 - Ship **real-time computer vision** — object detection and tracking with **YOLO** and **OpenCV** streamed live to the browser.
