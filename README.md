@@ -20,7 +20,7 @@
 
 <img align="right" width="370" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-Full-stack engineer who likes owning the whole loop — from the schema and the API contract to the virtualized grid the user actually scrolls. I build **real-time, data-heavy frontends**, **backend APIs at the GraphQL/WebSocket layer**, **AI/RAG pipelines that run on local and cloud LLMs**, and the **Terraform + CI/CD plumbing** that gets it all deployed without anyone touching a button.
+Full-stack engineer who likes owning the whole loop  from the schema and the API contract to the virtualized grid the user actually scrolls. I build **real-time, data-heavy frontends**, **backend APIs at the GraphQL/WebSocket layer**, **AI/RAG pipelines that run on local and cloud LLMs**, and the **Terraform + CI/CD plumbing** that gets it all deployed without anyone touching a button.
 
 Currently pursuing an **M.Sc. in Computer Science at Philipps-Universität Marburg** 🇩🇪, researching human-controllable LLM systems.
 
@@ -28,7 +28,7 @@ Currently pursuing an **M.Sc. in Computer Science at Philipps-Universität Marbu
 
 ## `$ cat ai-engineering.md`
 
-- Build **RAG pipelines end to end** — ingestion, chunking, embeddings, retrieval, and grounded generation — with **LangChain**, **Vertex AI**, **ChromaDB**, and **NLI-based claim verification** so answers can be trusted, not just generated.
+- Build **RAG pipelines end to end**  ingestion, chunking, embeddings, retrieval, and grounded generation — with **LangChain**, **Vertex AI**, **ChromaDB**, and **NLI-based claim verification** so answers can be trusted, not just generated.
 - Run **open-weight LLMs locally** with **Ollama** and steer their behavior below the prompt layer — activation steering, semantic control, human-in-the-loop correction.
 - Wire up **agentic workflows** with **MCP** and AI coding agents — ticket-to-code pipelines where the agent writes, deploys, and verifies its own changes.
 - Ship **real-time computer vision** — object detection and tracking with **YOLO** and **OpenCV** streamed live to the browser.
