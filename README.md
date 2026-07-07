@@ -16,7 +16,7 @@
 
 ### `whoami`
 
-Full-stack engineer who likes owning the whole loop — schema, API, and the virtualized grid the user actually scrolls. I build real-time, data-heavy frontends and the GraphQL/WebSocket backends behind them, plus RAG pipelines that run on local and cloud LLMs. Currently doing an M.Sc. in Computer Science at Uni Marburg 🇩🇪.
+Full-stack engineer who likes owning the whole loop  schema, API, and the virtualized grid the user actually scrolls. I build real-time, data-heavy frontends and the GraphQL/WebSocket backends behind them, plus RAG pipelines that run on local and cloud LLMs. Currently doing an M.Sc. in Computer Science at Uni Marburg 🇩🇪.
 
 ### `stack`
 
