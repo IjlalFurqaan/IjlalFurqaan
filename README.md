@@ -28,14 +28,6 @@ ai      llms · rag · agentic · mcp · langchain · ollama · pytorch
 cloud   gcp · aws · terraform · docker · github-actions
 data    postgres · mongodb · firestore · chromadb
 ```
-
-### `projects`
-
-- [**document-qa**](https://github.com/IjlalFurqaan/document-qa) — RAG pipeline for Q&A over enterprise docs · `LangChain` `Vertex AI`
-- [**Quant.AI**](https://github.com/IjlalFurqaan/Quant.AI) — LLM reasoning layer over live market data · `Next.js`
-- [**VoltDB**](https://github.com/IjlalFurqaan/VoltDB) — database engine from scratch · `C++`
-- [**ai-job-copilot**](https://github.com/IjlalFurqaan/ai-job-copilot) — AI copilot for the job hunt · `TypeScript`
-
 <br/>
 
 <div align="center"><sub>building something interesting? let's talk.</sub></div>
