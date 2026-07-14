@@ -139,7 +139,6 @@ Currently pursuing an **M.Sc. in Computer Science at Philipps-Universität Marbu
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=IjlalFurqaan&style=flat-square&color=22d3ee&label=profile+views" />
 
 **If you're building something interesting, let's talk.**
 
